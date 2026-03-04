@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TechTest</string>
+
+    <!-- Product Screen!-->
+    <string name="product_screen_title">Products</string>
+    <string name="product_screen_error_btn">Load Again</string>
+    <string name="product_delete_fav">Delete favorites</string>
+    <string name="product_add_fav">Add to favorites</string>
+
+
+    <!-- Favorites Screen!-->
+    <string name="favorites_screen_title">Favorites</string>
+    <string name="favorites_screen_empty">No favorites yet</string>
+    <string name="favorites_screen_error">Back</string>
+    <string name="favorites_screen_remove">Remove from favorites"</string>
+
+    <!-- Profile Screen!-->
+    <string name="profile_screen_title">Profile</string>
+    <string name="profile_screen_error">Back</string>
+    <string name="profile_title_user">User</string>
+    <string name="profile_username">Username: %1$s</string>
+    <string name="profile_email">Email: %1$s</string>
+    <string name="profile_favorites">Favorites: %1$s</string>
+
+</resources>
